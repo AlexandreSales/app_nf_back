@@ -93,7 +93,7 @@ begin
     Add('Port=3306');
     Add('Database=appex');
     Add('User_Name=root');
-    Add('Password=');
+    Add('Password=admin@2408');
   end;
 end;
 
